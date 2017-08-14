@@ -16,7 +16,7 @@ github: https://github.com/iROCKBUNNY
 
 logo: /img/Avatar.png
 
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 
