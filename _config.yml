@@ -4,16 +4,19 @@ repository: https://github.com/iROCKBUNNY/iROCKBUNNY
 
 timezone: Asia/Shanghai
 
-name: iROCKBUNNY
+title: iROCKBUNNY
+description: Official Website
+url: http://irockbunny.com
+
 author: iROCKBUNNY
 author_url: http://irockbunny.com
 organization: TEELAB
 organization_url: http://teelab.net
-description: Official Website
-url: http://irockbunny.com
+
 contact: contact[at]irockbunny[dot]com
 github: https://github.com/iROCKBUNNY
 
+image: /img/Avatar.png
 logo: /img/Avatar.png
 
 plugins:
